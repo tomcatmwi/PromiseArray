@@ -1,0 +1,23 @@
+{
+  "name": "promisearray",
+  "version": "1.0.0",
+  "description": "A modified Array to help handle Promise.all() chains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcatmwi/promisearray.git"
+  },
+  "keywords": [
+    "promise",
+    "promisearray"
+  ],
+  "author": "TomcatMWI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcatmwi/promisearray/issues"
+  },
+  "homepage": "https://github.com/tomcatmwi/promisearray#readme"
+}
