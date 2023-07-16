@@ -1,5 +1,5 @@
 {
-  "name": "promisearray",
+  "name": "promise-array",
   "version": "1.0.0",
   "description": "A modified Array to help handle Promise.all() chains",
   "main": "index.js",
