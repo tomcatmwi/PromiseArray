@@ -27,7 +27,7 @@ This is what `PromiseArray` solves.
 `PromiseArray` is a descendant of the standard Javascript array. Here is how to use it.
 
 ```
-import { PromiseArray } from 'promisearray';
+import { PromiseArray } from 'another-promise-array';
 
 Promise.all(
   new PromiseArray([
